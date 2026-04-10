@@ -1,27 +1,51 @@
-Control: Energy / Telekinesis
+Control
 Aries Mars
-Transformation: Developing / Shapeshifting
+Transformation
 Taurus Venus
-Understanding: Wisdom / ESP
+Understanding
 Libra Venus
-Revelation: Visions / Rapture
+Revelation
 Pisces Neptune
-Feeling: Empathy / Telepathy
+Feeling
 Virgo Mercury
-Influence: Charisma / Hypnotism
+Influence
 Leo Sun 
-Penetration: Escape / Intangibility
+Penetration
 Gemini Mercury
-Travel: Direction / Teleportation
+Travel
 Sagittarius Jupiter
-Production: Attraction / Creation
+Production
 Capricorn Saturn
-Restoration: Renewal / Healing
+Restoration
 Aquarius Uranus
-Vanishing: Stealth / Invisibility
+Vanishing
 Cancer Moon
-Destruction: Curses / Annihilation
+Destruction
 Scorpio Pluto
+Aries Mars
+Control
+Taurus Venus
+Transformation 
+Libra Venus
+Understanding 
+Pisces Neptune
+Revelation 
+Virgo Mercury
+Feeling 
+Leo Sun 
+Influence 
+Gemini Mercury
+Penetration 
+Sagittarius Jupiter
+Travel 
+Capricorn Saturn
+Production 
+Aquarius Uranus
+Restoration 
+Cancer Moon
+Vanishing 
+Scorpio Pluto
+Destruction
 Aries
 Mars
 Taurus 
