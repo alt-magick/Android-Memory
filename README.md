@@ -1,5 +1,4 @@
 # Android-Memory
-App
 
 Nav:<br><br> Prev, goes to last item.<br>
 Next, goes to next item.<br> 
