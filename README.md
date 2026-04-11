@@ -1,5 +1,9 @@
 # Android-Memory
 
+Odd line numbers are questions or prompts. Even lines are scripts and answers.
+
+Program functions:<br><br>
+
 Nav:<br><br> Prev, goes to last item.<br>
 Next, goes to next item.<br> 
 Start, goes to beginning.<br>
