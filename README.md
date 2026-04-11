@@ -4,7 +4,9 @@ App
 Nav:<br> Prev, goes to last item.
 Next, goes to next item 
 Start, goes to beginning .
-Random, goes to random item.<br><br Actions:<br> 
+Random, goes to random item.<br><br>
+
+Actions:<br> 
 Answer, displays answer.
 Clear, clears screen.
 Mem, flags item as memorized.
