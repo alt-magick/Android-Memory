@@ -13,8 +13,8 @@ Mem, flags item as memorized.<br>
 Skip, toggles memorized items as ignored.<br><br>
 
 Tools:<br><br> Jump, searches for string in questions.<br>
-Fuzzy, sets percentage to find correct answers.<br>
+Fuzzy, sets percentage for correct answers.<br>
 Stats, shows statistics.<br>
 Load File, opens data file.<br><br>
-                Swipe:<br> Left / Right (Next / Prev)<br> Up (Rand)<br> Down (Start)<br> Tap (Answer)<br> Hold (Mem)
+                Swipe:<br><br>Left / Right (Next / Prev)<br> Up (Rand)<br> Down (Start)<br> Tap (Answer)<br> Hold (Mem)
           
